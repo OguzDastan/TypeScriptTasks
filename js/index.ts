@@ -1,9 +1,3 @@
-interface Person {
-    firstName: string;
-    lastName: string;
-}
-
-
 
 // type casting buttons with TypeScript
 let CalcBtn: HTMLButtonElement = <HTMLButtonElement>document.getElementById("Manipulate");
